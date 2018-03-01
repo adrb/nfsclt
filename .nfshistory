@@ -1,0 +1,12 @@
+df
+set hostname localhost
+set host localhost
+df
+set host localhost
+df
+set host localhost
+df
+mount
+df
+mount /srv/nfs
+df
